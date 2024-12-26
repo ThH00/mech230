@@ -28,10 +28,10 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
+  Theresa Honein:
     - 'https://thh00.github.io'
-  Just the Class on GitHub:
-    - 'https://thh00.github.io/mech230/'
+  Joseph Bkarji:
+    - 'https://www.josephbakarji.com'
 footer_content:
 
 # Collections for website data
