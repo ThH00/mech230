@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Just the Class
+title: MECH230 Dynamics
 nav_exclude: true
 permalink: /:path/
 seo:
