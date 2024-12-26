@@ -1,8 +1,9 @@
 ---
 title: Week 0 Announcement
 week: 0
-date: 2019-04-01
+date: 2025-01-08
 ---
 
-Hello world!
-{: .fs-5 }
+Complete this pre-semester checklist:
+- [Pre-semester survey]()
+- [A review of vectors]()
