@@ -1,13 +1,13 @@
 ---
-title: Introduction to Java
+title: Preliminary on Vectors
 ---
 
-Sep 28
+Jan 16
 : [Java & Git](#)
   : [1.1](#)
 
 Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
+: **Lecture**{: .label .label-purple }[Intro to Java](#)
   : [Solution](#)
 
 Sep 30
