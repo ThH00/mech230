@@ -7,7 +7,7 @@ Jan 16
   : [1.1](#)
 
 Sep 29
-: **Lecture**{: .label .label-purple }[Intro to Java](#)
+: **Lecture**{: .label .label-blue }[Intro to Java](#)
   : [Solution](#)
 
 Sep 30
