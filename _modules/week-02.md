@@ -4,9 +4,9 @@ title: Week 02 - Single Particle in Cartesian Coodinates
 
 Jan 20
 : **Lecture**{: .label .label-blue }
-: **1.**{: .label .label-blue } : A continuum mechanics perspective
-: **2.**{: .label .label-blue } : Velocity, acceleration, arc-length
-: **3.**{: .label .label-blue } : A note on units
+: **1.**{: .label .label-blue } A continuum mechanics perspective
+: **2.**{: .label .label-blue } Velocity, acceleration, arc-length
+: **3.**{: .label .label-blue } A note on units
 : **Problem Set**{: .label .label-green } [Set 02: Units](#)
 
 Jan 22
@@ -17,7 +17,7 @@ Jan 22
 
 Jan 24
 : **Lecture**{: .label .label-blue }
-: **1.**{: .label .label-blue } : Particle Kinetics: BoLM and action-reaction
-: **1.**{: .label .label-blue } : Four steps to solving a problem using BoLM
+: **1.**{: .label .label-blue } Particle Kinetics: BoLM and action-reaction
+: **2.**{: .label .label-blue } Four steps to solving a problem using BoLM
 : **Problem Set**{: .label .label-green } [Set 04: Balance of Linear Momentum (BoLM)](#)
 : **Homework**{: .label .label-red } [HW02](#) (due Jan. 31)
