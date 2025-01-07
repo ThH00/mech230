@@ -10,7 +10,7 @@ seo:
 
 # Sections
 
-| # | Lecture             | Instructor    | Exercise Session  | E  |
+| Section Number | Lecture             | Instructor    | Exercise Session  | Enrollement  |
 | - | ------------------- | ----------    | ----------------  | -- |
 | 1 | MWF 9-9:50 am       | Dr. Honein    | W 3:30-4:45 pm    | 48 |
 | 2 | TR 9:30-10:45 am    | Dr. Bakarji   | R 3:30-4:45 pm    | 29 |
