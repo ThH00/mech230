@@ -21,7 +21,7 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Lecture Sec. 1
+      - name: Lecture Sec 1
         start: 9:00 AM
         end: 9:50 AM
         location: Bechtel 201
@@ -36,15 +36,15 @@ schedule:
   - name: Tuesday
   - name: Wednesday
     events:
-      - name: Lecture Sec. 1
+      - name: Lecture_Sec1
         start: 9:00 AM
         end: 9:50 AM
         location: Bechtel 201
-      - name: Lecture Sec. 2
+      - name: Lecture_Sec2
         start: 10:00 AM
         end: 10:50 AM
         location: Bechtel 201
-      - name: Honein Office Hours
+      - name: Honein_Office_Hours
         start: 11:00 AM
         end: 12:30 PM
         location: Bechtel 532
