@@ -51,11 +51,11 @@ schedule:
       - name: Exercise Session Sec 1
         start: 3:30 PM
         end: 4:45 PM
-        location: ???
+        location: Bechtel 203
       - name: Exercise Session Sec 2
         start: 2:00 PM
         end: 3:15 PM
-        location: ???
+        location: Bechtel 201
   - name: Thursday
     events:
     - name: Honein Office Hours
