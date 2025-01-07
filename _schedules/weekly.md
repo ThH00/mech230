@@ -21,46 +21,55 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+      - name: Lecture Sec. 1
+        start: 9:00 AM
+        end: 9:50 AM
+        location: Bechtel 201
+      - name: Lecture Sec. 2
+        start: 10:00 AM
+        end: 10:50 AM
+        location: Bechtel 201
+      - name: Honein Office Hours
+        start: 2:00 PM
+        end: 4:00 PM
+        location: Bechtel 532
   - name: Tuesday
   - name: Wednesday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
+      - name: Lecture Sec. 1
+        start: 9:00 AM
+        end: 9:50 AM
+        location: Bechtel 201
+      - name: Lecture Sec. 2
+        start: 10:00 AM
+        end: 10:50 AM
+        location: Bechtel 201
+      - name: Honein Office Hours
+        start: 11:00 AM
         end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        location: Bechtel 532
+      - name: Exercise Session Sec. 1
+        start: 3:30 PM
+        end: 4:45 PM
+        location: ???
+      - name: Exercise Session Sec. 2
+        start: 2:00 PM
+        end: 3:15 PM
+        location: ???
   - name: Thursday
+    events:
+    - name: Honein Office Hours
+        start: 8:30 AM
+        end: 10:00 AM
+        location: Bechtel 532
   - name: Friday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+      - name: Lecture Sec. 1
+        start: 9:00 AM
+        end: 9:50 AM
+        location: Bechtel 201
+      - name: Lecture Sec. 2
+        start: 10:00 AM
+        end: 10:50 AM
+        location: Bechtel 201
 ---
