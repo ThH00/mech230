@@ -1,18 +1,23 @@
 ---
-title: Single Particle in Cartesian Coodinates
+title: Week 02 - Single Particle in Cartesian Coodinates
 ---
 
 Jan 20
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+: **Lecture**{: .label .label-blue }
+: 1. : [A continuum mechanics perspective](#)
+: 2. : [Velocity, acceleration, arc-length](#)
+: 3. : [A note on units](#)
+: **Problem Set**{: .label .label-green } [Set 02: Units](#)
 
 Jan 22
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
-: **Exercise Session**{: .label .label-purple } [Resizing Arrays](#)
+: **Lecture**{: .label .label-blue }
+: 1. : [Rectilinear motion](#)
+: **Problem Set**{: .label .label-green } [Set 03: Rectilinear motion (acceleration in terms of time, speed, or position)](#)
+: **Exercise Session**{: .label .label-yellow } 
 
 Jan 24
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
-: **HW 0 due**{: .label .label-red } at 9:00 am
-
+: **Lecture**{: .label .label-blue }
+: 1. : [Particle Kinetics: BoLM and action-reaction](#)
+: 2. : [Four steps to solving a problem using BoLM](#)
+: **Problem Set**{: .label .label-green } [Set 04: Balance of Linear Momentum (BoLM)](#)
+: **Homework**{: .label .label-red } [HW02](#) (due Jan. 24)
