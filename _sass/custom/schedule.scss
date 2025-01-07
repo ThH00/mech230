@@ -92,15 +92,23 @@
       @extend .fs-2;
     }
 
-    &.lecture {
+    &.lecture-sec-1 {
       background-color: $grey-dk-000;
     }
 
-    &.section {
+    &.exercise-session-sec-1 {
+      background-color: $grey-dk-000;
+    }
+
+    &.lecture-sec-2 {
       background-color: $purple-000;
     }
 
-    &.office-hours {
+    &.exercise-session-sec-2 {
+      background-color: $purple-000;
+    }
+
+    &.honein-office-hours {
       background-color: $blue-000;
     }
   }
